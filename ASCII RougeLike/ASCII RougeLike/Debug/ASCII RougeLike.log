@@ -1,0 +1,16 @@
+﻿  Character.cpp
+  GameStage.cpp
+  Input.cpp
+  Inventory.cpp
+  Item.cpp
+  main.cpp
+  MovementController.cpp
+  randw.cpp
+D:\repos\ASCII RougeLike\ASCII RougeLike\randw.cpp(28,21): warning C4018: '<': signed/unsigned mismatch
+D:\repos\ASCII RougeLike\ASCII RougeLike\randw.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+D:\repos\ASCII RougeLike\ASCII RougeLike\randw.cpp(69,21): warning C4018: '<': signed/unsigned mismatch
+  UI.cpp
+D:\repos\ASCII RougeLike\ASCII RougeLike\UI.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\repos\ASCII RougeLike\ASCII RougeLike\Inventory.cpp(81): warning C4715: 'Inventory::ItemAtIndex': not all control paths return a value
+  ASCII RougeLike.vcxproj -> D:\repos\ASCII RougeLike\Debug\ASCII RougeLike.exe
